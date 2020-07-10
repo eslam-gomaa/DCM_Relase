@@ -1,0 +1,4 @@
+<map id="Dcm_GetSesCtrlType" name="Dcm_GetSesCtrlType">
+<area shape="rect" id="node1" title="This function is used to get the active session type." alt="" coords="240,5,388,32"/>
+<area shape="rect" id="node2" href="$_dcm___dsp_8h.html#a9a5f481f217ea168088cee86fcb80cbd" title="This function is used to know that current session level has the permission to access by the request ..." alt="" coords="5,5,192,32"/>
+</map>

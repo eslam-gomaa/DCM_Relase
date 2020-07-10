@@ -1,0 +1,4 @@
+<map id="DspSessionLevelPermission" name="DspSessionLevelPermission">
+<area shape="rect" id="node1" title="This function is used to know that current session level has the permission to access by the request ..." alt="" coords="5,5,192,32"/>
+<area shape="rect" id="node2" href="$_dcm___dsl_8c.html#afb89277f684d301ab0930f5f1c8059ee" title="This function is used to get the active session type." alt="" coords="240,5,388,32"/>
+</map>

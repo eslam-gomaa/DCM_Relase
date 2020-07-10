@@ -1,0 +1,9 @@
+<map id="DspPendingHanlingType" name="DspPendingHanlingType">
+<area shape="rect" id="node1" title=" " alt="" coords="649,792,811,869"/>
+<area shape="rect" id="node2" href="$struct_dcm___msg_context_type.html" title=" " alt="" coords="758,263,913,428"/>
+<area shape="rect" id="node4" href="$struct_dcm___dsd_service_type.html" title=" " alt="" coords="459,593,630,729"/>
+<area shape="rect" id="node3" href="$struct_dcm___msg_add_info_type.html" title=" " alt="" coords="751,13,919,105"/>
+<area shape="rect" id="node5" href="$struct_dcm___dsp_security_row_type.html" title=" " alt="" coords="5,175,236,516"/>
+<area shape="rect" id="node6" href="$struct_dcm___dsp_session_row_type.html" title=" " alt="" coords="371,5,577,112"/>
+<area shape="rect" id="node7" href="$struct_dcm___dsd_sub_service_type.html" title=" " alt="" coords="561,292,733,399"/>
+</map>

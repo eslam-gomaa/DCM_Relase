@@ -1,0 +1,12 @@
+<map id="ComConfig_type" name="ComConfig_type">
+<area shape="rect" id="node1" title=" " alt="" coords="479,903,596,980"/>
+<area shape="rect" id="node2" href="$struct_com_i_pdu__type.html" title=" " alt="" coords="295,689,483,840"/>
+<area shape="rect" id="node3" href="$struct_com_signal_group___type.html" title=" " alt="" coords="5,454,203,605"/>
+<area shape="rect" id="node4" href="$struct_com_group_signal___type.html" title=" " alt="" coords="26,189,182,369"/>
+<area shape="rect" id="node5" href="$struct_com_tx_i_pdu__type.html" title=" " alt="" coords="227,483,445,575"/>
+<area shape="rect" id="node6" href="$struct_com_tx_mode_false__type.html" title=" " alt="" coords="227,241,386,318"/>
+<area shape="rect" id="node7" href="$struct_com_tx_mode__type.html" title=" " alt="" coords="289,5,519,127"/>
+<area shape="rect" id="node8" href="$struct_com_tx_mode_true__type.html" title=" " alt="" coords="411,241,563,318"/>
+<area shape="rect" id="node9" href="$struct_com_signal__type.html" title=" " alt="" coords="487,432,652,627"/>
+<area shape="rect" id="node10" href="$struct_com_time_base__type.html" title=" " alt="" coords="687,719,825,811"/>
+</map>
